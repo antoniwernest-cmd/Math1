@@ -1,0 +1,4 @@
+# This folder is the finished static website. Its index.html is at the root.
+[build]
+  publish = "."
+  command = ""

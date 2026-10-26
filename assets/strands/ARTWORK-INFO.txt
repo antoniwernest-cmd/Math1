@@ -1,0 +1,15 @@
+STRAND ARTWORK
+Built-in image generation used. Nine transparent hand-drawn coloured-pencil and watercolour illustrations for the Maths strand menu.
+
+Final files: number.webp, calculate.webp, groups.webp, patterns.webp, reading.webp, data.webp, geometry.webp, measurement.webp, financial.webp. Full-size PNG originals are beside them.
+
+Common prompt: Use case: illustration-story. Asset type: illustrated strand-card artwork for a children’s maths learning website. Create a polished hand-drawn coloured-pencil and soft watercolour cutout illustration, warm children’s book style, confident natural ink outlines, subtle paper-grain texture within the objects, rounded friendly forms, no photographic or plastic 3D rendering. Cohesive restrained colours: deep teal, honey yellow, soft sky blue, coral and lilac. One compact square composition with generous transparent breathing room, objects large and clear even at thumbnail size. Fully transparent background, no panel, no frame, no words, no heading, no watermark. This is one of five matching strand illustrations.
+
+Subjects:
+Number sense: golden hundred square, ten rods and unit cubes, with number cards 1, 2, 3, a pencil and sparkle marks.
+Add and subtract: colourful counting cubes, wooden plus and minus symbols, and a pencil-drawn arrow.
+Groups and fractions: three small baskets with equal groups of red apples, plus a circle in four equal quarters with one quarter lilac.
+Patterns and algebra: repeating red, blue, yellow beads and a growing teal cube staircase.
+Reading numbers: open reading book, numeral 7 card, pencil and golden counting dots, with no alphabet words.
+
+Ontario additions: data.webp (bar chart, pictograph, spinner), geometry.webp (shapes and solids), measurement.webp (ruler, clock, scale, jug), financial.webp (illustrative Canadian-style coins and purse). Built-in image generation, transparent background, warm pencil and watercolour storybook style. Compact educational vignette, dark sketch outlines, restrained gold/teal/sky blue/coral, large clear silhouettes, no text, border or background.

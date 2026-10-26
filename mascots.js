@@ -1,0 +1,2 @@
+/* Seasonal guide outfits; Halloween costumes remain available in their section. */
+window.ML_AUTUMN_OUTFITS={"rocky":["assets/autumn/rocky-flannel-vest.png","assets/autumn/rocky-green-jacket.png","assets/autumn/rocky-blue-hoodie.png"],"luna":["assets/autumn/luna-rust-jacket.png","assets/autumn/luna-yellow-raincoat.png","assets/autumn/luna-purple-sweater.png"]};window.ML_HALLOWEEN_MASCOTS={rocky:"assets/halloween/rocky-dracula.png",luna:"assets/halloween/luna-frankenstein.png"};window.ML_MASCOTS={rocky:ML_AUTUMN_OUTFITS.rocky[0],luna:ML_AUTUMN_OUTFITS.luna[0]};

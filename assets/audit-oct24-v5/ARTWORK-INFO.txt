@@ -1,0 +1,10 @@
+Created with the built-in image_gen tool, October 24, 2026.
+Project assets:
+assets/audit-oct24-v5/rocky-tapping.webp (PNG original retained)
+assets/audit-oct24-v5/rounding-house.webp (PNG original retained)
+
+Character prompt:
+Use case: stylized-concept. Create a transparent cutout illustration for a primary-school math activity. Edit the supplied orange tabby astronaut cat mascot into a clear new pose: the same friendly cat, same white-and-blue spacesuit, helmet and large green eyes, is looking at and pressing one large raised blue circular button with one paw. Full-body or three-quarter character, button beside the paw, action obvious even at a small size. Polished family-friendly 3D animated-film style with soft dimensional lighting and appealing rounded forms. Keep the cat identity, suit colours and warm expression. No words, letters, numbers, logos, watermark or scene background. Real alpha transparency; compact square composition with comfortable margins.
+
+House prompt:
+Use case: stylized-concept. Asset type: transparent cutout illustration for endpoints of a children's math number chart. One cheerful small storybook house, front three-quarter view, rounded blue pitched roof, warm cream walls, welcoming coral front door, two large windows and a tiny neat doorstep. Polished family-friendly 3D animated-film rendering, soft studio lighting, charming simple chunky forms, clear silhouette readable at 70 pixels. The entire house is visible, compact square composition with margins. No characters, landscape, text, letters, numbers, logos or watermark. Genuine transparent background with a subtle contact shadow only.
